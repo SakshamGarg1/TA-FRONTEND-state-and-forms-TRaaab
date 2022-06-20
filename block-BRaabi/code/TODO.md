@@ -1,6 +1,6 @@
 ## Accordion FAQ
 
-Take a look at the UI of the App:
+Take a look at the UI of the App:/
 
 ![Accordion FAQ](../assets/accordion.png)
 
