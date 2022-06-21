@@ -1,6 +1,6 @@
 ## Movie App
 
-Create a movie list app
+Create a movie list app/
 
 - Display a list of movies using the `data.json` file
 - The list of movie will display an image, title, released date
