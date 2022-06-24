@@ -63,7 +63,7 @@ class App extends React.Component {
            <div
            key ={i} className = 'box'>
              <h2>{style.toUpperCase()}</h2>
-             <p className={style} style={{fontSize:this.state.fontSize}}>
+             <p className={style} style={`${fontSize:this.state.fontSize}px`}>
                {this.state.inputText}
               </p>
            </div>  
