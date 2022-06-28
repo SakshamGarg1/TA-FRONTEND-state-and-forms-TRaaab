@@ -1,4 +1,4 @@
-#### Multi Step Form
+#### Multi Step Form/
 
 - Follow this article for help (https://css-tricks.com/the-magic-of-react-based-multi-step-forms/)
 - Create a multi step form
